@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/richardpeng/work/origin/a55/2015_1_5/Qualcomm_4_4_M8974AAAAALNXLA35106110/bootable/recovery/minui'
+let g:netrw_dirhist_2='/home/richardpeng/work/origin/a55/2015_1_5/Qualcomm_4_4_M8974AAAAALNXLA35106110/vendor/qcom/proprietary/mm-audio/audio_ftm'
+let g:netrw_dirhist_3='/home/richardpeng/work/origin/a55/2015_1_5/Qualcomm_4_4_M8974AAAAALNXLA35106110/bootable/recovery/res/images'
+let g:netrw_dirhist_4='/var/spool/mail'
+let g:netrw_dirhist_5='/Users/zhangzhen/python/djangocsrf/.git/hooks'
+let g:netrw_dirhist_6='/Users/zhangzhen/python/djangocsrf/.git/info'
+let g:netrw_dirhist_7='/Users/zhangzhen/python/python/dataeye/statistics'
+let g:netrw_dirhist_8='/Users/zhangzhen/.vim'
+let g:netrw_dirhist_9='/Users/zhangzhen/.vim/.vim'
