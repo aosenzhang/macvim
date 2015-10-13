@@ -235,6 +235,7 @@ autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 autocmd FileType c set omnifunc=ccomplete#Complete  
    
 let g:pydiction_location='~/.vim/tools/pydiction/complete-dict'  
+let g:pydiction_menu_height = 20
 
 " nerdtree
 " autocmd vimenter * NERDTree
